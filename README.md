@@ -1,3 +1,3 @@
-# Shans-Blog- welcome to the madness.
-THIS IS A TEST OF THE GITHUB BLOG PAGE THING
-## TESTING TESTING 123 123 TESTING
+# Shans-Blog- Just a man blogging without a plan.
+
+
