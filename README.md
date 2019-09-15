@@ -45,10 +45,10 @@ SOURCES:
 1. https://www.consumer.ftc.gov/articles/0259-robocalls
 
 
-2.https://smallbusiness.chron.com/automated-phone-system-58559.html
+2. https://smallbusiness.chron.com/automated-phone-system-58559.html
 
 
-3.https://poets.org/text/play-exquisite-corpse
+3. https://poets.org/text/play-exquisite-corpse
 
 
-4.https://www.youtube.com/watch?v=hySSXaDaEY0
+4. https://www.youtube.com/watch?v=hySSXaDaEY0
