@@ -14,7 +14,7 @@
 
    A robocall is a commonly used method of conveying information to people worldwide. Almost everyone has a smart phone or at the least some sort of telephone which can be reached, making robocalls extremely effective. They are commonly used for harmless reminders such as appointment reminders or flight cancellations, perscription filling, and more. _However_, as the utility of these calls have been realized, robcalls have been exposed to much corruption. The Federal Trade Comission states the following on robocalls (SEE SOURCES): "If you answer the phone and hear a recorded message instead of a live person, it's a robocall. If you’re getting a lot of robocalls trying to sell you something, odds are the calls are illegal. Many are also probably scams."
   
- ## The Robo behind the call. 
+## The Robo Behind The Call
  
  
  ![ALGORITHMS](https://user-images.githubusercontent.com/54897843/64924303-f79d2e00-d7b0-11e9-86ce-c4820c0ab63f.jpg)   
