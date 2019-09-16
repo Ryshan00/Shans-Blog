@@ -33,7 +33,7 @@
    [This phone call](https://www.youtube.com/watch?v=hySSXaDaEY0) is an example of a robocall with an algorithm, the recepient is asked questions, in which certain expected responses help move the phonecall along, step by step. You can see how when asked questions not pertaining to the algorithm set in place, the AI of the phonecall breaks down and resorts to specifically engineered responses. This is similar to text based algorithms like exquisite corpse such that it can be hard to piece together a story if the next person does not continue the sentence that the last person left open ended. It destroys the **algorithm**.
 
 
-   As robocall AI gets smarter and smarter, more complex algorithms will be worked into them to ensure either ease of use for commercial use, or more believable scams from illegal calls. Even A simple algorithm like Telephone can be helpful in helping computers learn how conversations become warped and off topic so the robocall can reconviene the conversation back to whatever the point of the call was. As the robocall epidemic gets worse, it will be interesting to see how they evolve and combat regulations with increasingly accurate and misleading algorithms.
+   As robocall AI gets smarter and smarter, more complex algorithms will be worked into them to ensure either ease for commercial use, or more believable scams from illegal calls. Even A simple algorithm like Telephone has been helpful in teaching computers simple step by step flow. Computers are constantly learning, and as the robocall epidemic gets worse, it will be interesting to see how they evolve and combat regulations with increasingly accurate and potentially corrupt algorithms.
 
 
 -WRITTEN BY RYAN SHANLEY-
