@@ -52,3 +52,6 @@ SOURCES:
 
 
 4. https://www.youtube.com/watch?v=hySSXaDaEY0
+
+
+5. https://poets.org/text/play-exquisite-corpse
