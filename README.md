@@ -3,7 +3,7 @@
 
 
 
-# Journal #1 // Lets talk about the wonderful world of *Robocalls*
+# Lets talk about the wonderful world of *Robocalls*
 
   You pick up the phone only to hear a robotic voice remind you of something you scheduled months ago, sell you something ridiculous, possibly something you have never heard of, or promote their campaign for political office. If you have experienced this (which it is likely that you have) you are dealing with a Robocall, and no, your social security number is not compromised.
 
@@ -55,3 +55,12 @@ SOURCES:
 
 
 5. https://poets.org/text/play-exquisite-corpse
+
+
+6. https://user-images.githubusercontent.com/54897843/64924329-45b23180-d7b1-11e9-8e9b-2c720fb6500f.png
+
+
+7. https://user-images.githubusercontent.com/54897843/64924303-f79d2e00-d7b0-11e9-86ce-c4820c0ab63f.jpg
+
+
+8. https://user-images.githubusercontent.com/54897843/64924292-da685f80-d7b0-11e9-8ee2-2819b041b502.png
