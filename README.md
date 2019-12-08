@@ -64,3 +64,25 @@ SOURCES:
 
 
 8. https://user-images.githubusercontent.com/54897843/64924292-da685f80-d7b0-11e9-8ee2-2819b041b502.png
+
+==============================================================================
+
+
+# The Oregon Trail and The Text Based Computer Game
+
+## The Rise of Text Based Games
+Text based computer games have been around in their simplest forms since the 1960's, but reached peak popularity in the middle of the 1970's and were commonplace all the way into the 90's. Games like Stationfall and The Hitchhiker's Guide to the Galaxy are among the most famous text based game offerings ever released. Text based games can and often do cover many different genres, spanning fantasy, sci-fi, the wild west, and many more. The famous text based game "The Oregon Trail" is an example of the latter.
+
+## The Oregon Trail
+*The Oregon Trail* was an educational game released in 1985 and released on several other platforms and in many iterations up until the early 1990's, and It quickly became one of the most famous and successful text based games ever released. It is set in 19th century pioneer life along the Oregon Trail. You take the role of a wagon leader as you and your party try to make it from Missouri to new life in Oregon. The realism of the game soon becomes clear, however, as the harsh reality of the wagon trail lifestyle was translated exceptionally well into the game world.
+
+## Gruesome Realism
+
+The Oregon Trail was known for its realism, which in games at the time was not relatively common. Your party members can die to all sorts of things without warning, with an absurd attention to detail for the time. Typhoid Fever, Snakebites, accidental gunshot wounds, drowning, and perhaps the most famous of possible deaths, dysentery, all fall into this category. Amongst the death scenes were many possible things to do during the game, such as hunting, purchasing resources, and more. ![]
+
+## Outcomes, Adventure
+
+The ability of the oregon trail to tell a compelling story filled with *CHOICE* given the limitations at the time was exceptional. Many text based choose-your-own-adventure style stories take inspiration from the many possibilities and branches of gameplay the oregon trail presents. Even today, the game stands as one of the pinnacle examples of its kind. The Oregon Trail can be played and enjoyed here: https://classicreload.com/oregon-trail.html
+
+Written By Ryan Shanley
+
