@@ -78,7 +78,9 @@ Text based computer games have been around in their simplest forms since the 196
 
 ## Gruesome Realism
 
-The Oregon Trail was known for its realism, which in games at the time was not relatively common. Your party members can die to all sorts of things without warning, with an absurd attention to detail for the time. Typhoid Fever, Snakebites, accidental gunshot wounds, drowning, and perhaps the most famous of possible deaths, dysentery, all fall into this category. Amongst the death scenes were many possible things to do during the game, such as hunting, purchasing resources, and more. ![]
+The Oregon Trail was known for its realism, which in games at the time was not relatively common. Your party members can die to all sorts of things without warning, with an absurd attention to detail for the time. Typhoid Fever, Snakebites, accidental gunshot wounds, drowning, and perhaps the most famous of possible deaths, dysentery, all fall into this category. Amongst the death scenes were many possible things to do during the game, such as hunting, purchasing resources, and more. 
+
+![](Screenshots/you-have-died-of-dysentary-t-shirt-textual-tees.png)
 
 ## Outcomes, Adventure
 
