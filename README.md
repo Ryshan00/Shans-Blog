@@ -88,3 +88,18 @@ The ability of the oregon trail to tell a compelling story filled with *CHOICE* 
 
 Written By Ryan Shanley
 
+=====================================================================
+
+# Project Plans
+
+For my final project in my Designing and Writing Interactive texts class, I will take on the mantle of *retroscripting / remixing*. To Retroscript is to take things from media, i.e. a movie script, comic book, video games, and create something new out of it using your own creativity. Popular examples of retroscripting include [Garfield Minus Garfield](https://garfieldminusgarfield.net/) and [3eanuts](https://3eanuts.com/) These display incredible creativity and that is something I wanted to replicate for my project.
+
+## What will I be retroscripting?
+
+My project plans is to to make a song out of other songs, with the lyrics fitting together to make a puzzle, not unlike the [*exquisite corpse game used in writing and drawing*](https://www.artsy.net/article/artsy-editorial-explaining-exquisite-corpse-surrealist-drawing-game-die). The public domain is full of everything you could need for this sort of project, so the plan is to take clips of music videos, or audio, whatever i can find, to create a song out of different songs. It could be quite comical to see the results, and id imagine there are an uncountable number of possibilities with this sort of project. 
+
+### DUE DATE?
+
+This project is due thursday, december 12th at Midnight, so time is limited on this project, but I believe this will become more about finding a good combination of clips to use, moreso than wondering how to set it up, because that is entirely at my discretion. Im excited to get to this project, as I have been browsing ideas in my head for awhile. We'll see how it turns out!
+
+Written by Ryan Shanley 
