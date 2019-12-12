@@ -108,7 +108,7 @@ Written by Ryan Shanley
 
 # The Most Dangerous Writing App and Its Benefits
 
-[](Screenshots/070f899d-a5ff-4b07-a376-4f097192d709.jpg)
+![](Screenshots/070f899d-a5ff-4b07-a376-4f097192d709.jpg)
 
 The Most Dangerous writing app is a website that aims to improve your writing and typing skills through means of pressure. The main hook of the program is that you must continue writing for 5 minutes, with only a 5 second window to stop. If that window expires, you then you will begin to lose what you have written, it will be deleted off the page entirely. The results can be quite comical as you desperately try to keep up with the timer and second window you have. 
 
@@ -127,8 +127,8 @@ The Meme, via [Dictionary.com](dictionary.com) is a humorous image, video, piece
 
 Like a typical joke, memes originally typically possesed a punchline and setup, but as of recent, the meme style has changed dramatically. Pictured below are 2 memes, one could be anywhere circa 2010-2013, and below it is a very recent meme, most likely 2018-2019. Memes have trended more towards quick, simple, less involved jokes, and it would seem many people prefer this style.
 
-[](Screenshots/070f899d-a5ff-4b07-a376-4f097192d709.jpg)
-[](\)
+![](Screenshots/595d11825660b.jpeg)
+![](Screenshts/6116682_0.jpg)
 
 ## Where will the meme go?
 
