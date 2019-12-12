@@ -103,3 +103,15 @@ My project plans is to to make a song out of other songs, with the lyrics fittin
 This project is due thursday, december 12th at Midnight, so time is limited on this project, but I believe this will become more about finding a good combination of clips to use, moreso than wondering how to set it up, because that is entirely at my discretion. Im excited to get to this project, as I have been browsing ideas in my head for awhile. We'll see how it turns out!
 
 Written by Ryan Shanley 
+
+=====================================================================
+
+# The Most Dangerous Writing App and Its Benefits
+
+[](Screenshots/070f899d-a5ff-4b07-a376-4f097192d709.jpg)
+
+The Most Dangerous writing app is a website that aims to improve your writing and typing skills through means of pressure. The main hook of the program is that you must continue writing for 5 minutes, with only a 5 second window to stop. If that window expires, you then you will begin to lose what you have written, it will be deleted off the page entirely. The results can be quite comical as you desperately try to keep up with the timer and second window you have. 
+
+ The App opts for a different improv-type experience, rather than assigning a prompt. This is to let your brain do most of the work, and allow you to think freely instead of forcing you to stay on task. The pressure of the circumstances would make you waste time trying to come up with something coherent rather than just writing whatever, it would damage the core of what the developers were trying to accomplish.
+ 
+ The Most Dangerous Writing app is availble to play and use for free at anytime at https://maebert.github.io/themostdangerouswritingapp/#/ . Ironically, it was created in github, which just goes to show the versatility of this platform. Text is an all important skill, and the Most Dangerous Writing App wants to foster that skill.
