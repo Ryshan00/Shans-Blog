@@ -115,3 +115,21 @@ The Most Dangerous writing app is a website that aims to improve your writing an
  The App opts for a different improv-type experience, rather than assigning a prompt. This is to let your brain do most of the work, and allow you to think freely instead of forcing you to stay on task. The pressure of the circumstances would make you waste time trying to come up with something coherent rather than just writing whatever, it would damage the core of what the developers were trying to accomplish.
  
  The Most Dangerous Writing app is availble to play and use for free at anytime at https://maebert.github.io/themostdangerouswritingapp/#/ . Ironically, it was created in github, which just goes to show the versatility of this platform. Text is an all important skill, and the Most Dangerous Writing App wants to foster that skill.
+ 
+ 
+=====================================================================
+
+# Meme Culture and How it Has Evolved
+
+The Meme, via [Dictionary.com](Dictionary.com) is a humorous image, video, piece of text, etc., that is copied (often with slight variations) and spread rapidly by Internet users. Oftentimes the memes are culturally based or based in affinity groups, so only those involved with said culture may understand them, sort of like an inside joke.
+
+## How Have Memes Evolved? 
+
+Like a typical joke, memes originally typically possesed a punchline and setup, but as of recent, the meme style has changed dramatically. Pictured below are 2 memes, one could be anywhere circa 2010-2013, and below it is a very recent meme, most likely 2018-2019. Memes have trended more towards quick, simple, less involved jokes, and it would seem many people prefer this style.
+
+[](Screenshots/595d11825660b.jpeg)
+[](Screenshots/6116682_0.jpg)
+
+## Where will the meme go?
+
+It is uncertain to say where meme culture will evolve to next. The internet is constantly changing and evolving, especially social media, where memes are most commonly and easily spread around. As new things arise and become meme-able, time wil tell how the culture will change.
