@@ -121,14 +121,14 @@ The Most Dangerous writing app is a website that aims to improve your writing an
 
 # Meme Culture and How it Has Evolved
 
-The Meme, via [Dictionary.com](Dictionary.com) is a humorous image, video, piece of text, etc., that is copied (often with slight variations) and spread rapidly by Internet users. Oftentimes the memes are culturally based or based in affinity groups, so only those involved with said culture may understand them, sort of like an inside joke.
+The Meme, via [Dictionary.com](dictionary.com) is a humorous image, video, piece of text, etc., that is copied (often with slight variations) and spread rapidly by Internet users. Oftentimes the memes are culturally based or based in affinity groups, so only those involved with said culture may understand them, sort of like an inside joke.
 
 ## How Have Memes Evolved? 
 
 Like a typical joke, memes originally typically possesed a punchline and setup, but as of recent, the meme style has changed dramatically. Pictured below are 2 memes, one could be anywhere circa 2010-2013, and below it is a very recent meme, most likely 2018-2019. Memes have trended more towards quick, simple, less involved jokes, and it would seem many people prefer this style.
 
-[](Screenshots/595d11825660b.jpeg)
-[](Screenshots/6116682_0.jpg)
+[](Screenshots/070f899d-a5ff-4b07-a376-4f097192d709.jpg)
+[](\)
 
 ## Where will the meme go?
 
